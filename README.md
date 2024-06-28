@@ -20,7 +20,7 @@ Text summarization is the process of creating a concise and coherent summary of 
 ## Installation
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/SrihariR2004/text_summarization>
    ```
 2. Navigate to the repository directory:
    ```
